@@ -1,7 +1,7 @@
 # Neural Networks for Topology Optimization
 This is the code for the paper [**I. Sosnovik, I. Oseledets "Neural Networks for Topology Optimization"**](https://arxiv.org/pdf/1709.09578.pdf).
 
-*In this research, we propose a deep learning based approach for speeding up the topology optimization methods. The problem we seek to solve is the layout problem. The main novelty of this work is to state the problem as an image segmentation task. We leverage the power of deep learning methods as the efficient pixel-wise image labeling technique to perform the topology optimization. We introduce convolutional encoder-decoder architecture and the overall approach of solving the above-described problem with high performance.*
+*In this research, we propose a deep learning based approach for speeding up the topology optimization methods. The problem we seek to solve is the layout problem. The main novelty of this work is to state the problem as an image segmentation task. We leverage the power of deep learning methods as the efficient pixel-wise image labeling technique to perform the topology optimization. We introduce the convolutional encoder-decoder architecture and the overall approach of solving the above-described problem with high performance.*
 
 ![](./src/model.png)
 
