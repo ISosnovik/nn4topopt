@@ -7,13 +7,7 @@ This is the code for the paper **I. Sosnovik, I. Oseledets "Neural Networks for 
 ![](./src/model.png)
 
 ## Preparations
-We use [TOP dataset](https://github.com/ISosnovik/top) to train the model. Download it manually, or just run
-
-```bash
-wget https://storage.googleapis.com/top4040/TOP4040.zip &&
-unzip TOP4040.zip && 
-rm TOP4040.zip
-```
+We use [TOP dataset](https://github.com/ISosnovik/top) to train the model.
 
 In order to work with dataset easier, we aggregate the files into one `.h5` dataset. 
 
